@@ -3,4 +3,5 @@
 *= require pages
 *= require blogs
 *= require jquery-addon
+*= require bootstrap-addon 
 */
